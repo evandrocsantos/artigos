@@ -1,2 +1,2 @@
-# artigos
-Artigos e documentos sobre tecnologias
+# Artigos
+Artigos e documentos sobre tecnologia
